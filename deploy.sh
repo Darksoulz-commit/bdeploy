@@ -1,3 +1,7 @@
 #!/bin/bash
 git add .
-git commit -m "file updated via automation script"
+
+echo  "provide commit cmd: "
+read msg
+
+git commit -m "$msg"

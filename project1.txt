@@ -1,1 +1,2 @@
-city: Banglore
+Pincode : 56342
+city : banglore

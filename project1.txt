@@ -1,3 +1,4 @@
 Pincode : 56342
 city : banglore
 Commpany : Service based
+salary : 90000
